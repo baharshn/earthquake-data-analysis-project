@@ -1,0 +1,58 @@
+# -------------------------
+# Python Environment
+# -------------------------
+env/
+venv/
+ENV/
+.venv/
+*.env
+
+# -------------------------
+# Python Cache Files
+# -------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# -------------------------
+# Jupyter Notebook
+# -------------------------
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+.jupyter/
+*.nbconvert/
+
+# -------------------------
+# Data Science / ML Artifacts
+# -------------------------
+*.pickle
+*.pkl
+*.joblib
+*.h5
+*.hdf5
+*.model
+*.onnx
+
+# -------------------------
+# VS Code
+# -------------------------
+.vscode/
+.history/
+
+# -------------------------
+# OS (Operating System) Files
+# -------------------------
+.DS_Store
+Thumbs.db
+
+# -------------------------
+# Logs & Temp Files
+# -------------------------
+*.log
+*.tmp
+
+# -------------------------
+# Environment Config
+# -------------------------
+*.local
+*.cache/
